@@ -2,13 +2,6 @@
 
 ### Hi there! Nice to meet you!
 
-about me:
-- My name is Daria
-- I'm studying at the NRNU MEPhI at the Department of Automation in the 4th year
-- I have been developing in Java since June 2021
-- Before that I was programming microcontrollers in С
-- I am interested in video games and reading fiction
-
 ![](https://komarev.com/ghpvc/?username=dariagd&color=dc143c&style=flat)
 <!--
 **dariagd/dariagd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
