@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://64.media.tumblr.com/tumblr_mbk57gVUiE1rfjowdo1_500.gif)
+
 <!--
 **dariagd/dariagd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
