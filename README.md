@@ -1,9 +1,15 @@
 <img src="https://64.media.tumblr.com/tumblr_mbk57gVUiE1rfjowdo1_500.gif" width="150" height="150">
 
 ### Hi there! Nice to meet you!
-### I'm Daria👋
 
-![](https://komarev.com/ghpvc/?username=dariagd&color=dc143c&style=flat-square)
+about me:
+- Name is Daria
+- I'm studying at the NRNU MEPhI at the Department of Automation in the 4th year
+- I have been developing in Java since June 2021
+- Before that I was programming microcontrollers in С
+- I am interested in video games and reading fiction
+
+![](https://komarev.com/ghpvc/?username=dariagd&color=dc143c&style=flat)
 <!--
 **dariagd/dariagd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
