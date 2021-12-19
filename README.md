@@ -1,5 +1,10 @@
-### Hi there 👋
+<img src="https://64.media.tumblr.com/tumblr_mbk57gVUiE1rfjowdo1_500.gif" width="150" height="150">
 
+### Hi there! Nice to meet you!
+
+I don’t think we’ve met before, I'm Daria.
+
+![](https://komarev.com/ghpvc/?username=dariagd&color=dc143c&style=flat)
 <!--
 **dariagd/dariagd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
